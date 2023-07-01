@@ -12,7 +12,7 @@
 </div>
 <h3> Roy Lucas (SnowyyNL) </h3>
 I am Roy Lucas, from the Netherlands. My goal is to become a full time programmer. I like writing code in my free time. </br></br>
-<a href="https://discord.com/channels/@me/286883587981180929"> <img src="https://discord.c99.nl/widget/theme-1/700283589924880384.png" alt="contact me">
+<a href="https://discord.com/channels/@me/286883587981180929"> <img src="https://discord.c99.nl/widget/theme-1/988667159569903656.png" alt="contact me">
   </a>
 <h3> My Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marijn-de-Mul&hide=TeX&layout=compact&theme=radical" alt="Stats"/>
